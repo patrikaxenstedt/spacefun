@@ -1,2 +1,2 @@
-# Spacefun masterpiece made with Javascript
+## Spacefun masterpiece made with Javascript
 
