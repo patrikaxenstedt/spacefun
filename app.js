@@ -15,16 +15,16 @@ function init() {
 function getKeyAndMove(e) {
   let key_code = e.which || e.keyCode;
   switch (key_code) {
-    case 37: //vänster
+    case 37: //left
       moveLeft();
       break;
-    case 38: //upp
+    case 38: //up
       moveUp();
       break;
-    case 39: //höger
+    case 39: //right
       moveRight();
       break;
-    case 40: //ned
+    case 40: //down
       moveDown();
       break;
   }
