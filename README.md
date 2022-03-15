@@ -1,2 +1,2 @@
-## Spacefun masterpiece made with Javascript
+WIP, controll a GIF with the keyarrows, use space to trigger audio. 
 
